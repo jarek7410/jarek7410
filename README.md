@@ -16,27 +16,7 @@
 -->
 # 👨‍💻 🛠️ Languages and tools:
 <p align="left">
- <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
-   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
-  </a> 
- <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a> 
- <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40"/>
-</a>
-   <a href="https://platformio.org/" target="_blank" rel="noreferrer"> 
-   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cd/PlatformIO_logo.svg" alt="platformIO" width="40" height="40"/> 
-  </a>
- <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
- <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> 
+
  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
   </a> 
@@ -59,6 +39,44 @@
   </a> 
  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a> 
+  
+ <a href="https://go.dev/" target="_blank" rel="noreferrer"> 
+   <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_LightBlue.png" alt="golang" width="40" height="40"/> 
+  </a> 
+  
+ <a href="https://github.com/gin-gonic/gin" target="_blank" rel="noreferrer"> 
+   <img src="https://avatars.githubusercontent.com/u/7894478" alt="gin" width="40" height="40"/> 
+  </a> 
+  
+ <a href="https://gorm.io/index.html" target="_blank" rel="noreferrer"> 
+   <img src="https://gorm.io/gorm.svg" alt="gorm" width="40" height="40"/> 
+  </a> 
+  
+  
+ <a href="https://plantuml.com/" target="_blank" rel="noreferrer"> 
+   <img src="https://avatars.githubusercontent.com/u/5711322" alt="plantuml" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
+   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
+  </a> 
+ <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+  </a> 
+ <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40"/>
+</a>
+   <a href="https://platformio.org/" target="_blank" rel="noreferrer"> 
+   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cd/PlatformIO_logo.svg" alt="platformIO" width="40" height="40"/> 
+  </a>
+ <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  </a> 
+ <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
   </a> 
 </p>
 
